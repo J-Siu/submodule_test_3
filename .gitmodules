@@ -1,0 +1,3 @@
+[submodule "submodule_test_4"]
+	path = submodule_test_4
+	url = https://github.com/J-Siu/submodule_test_4
